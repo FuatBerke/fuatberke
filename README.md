@@ -1,4 +1,4 @@
-# Hi, I'm Fuat Berke 👋
+# <h1 align="center">Hi, I'm Fuat Berke 👋</h1>
 <!--![](https://i.pinimg.com/originals/aa/1c/79/aa1c793452809135313b8e049a56dcee.gif)-->
 <!--
 **FuatBerke/fuatberke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
