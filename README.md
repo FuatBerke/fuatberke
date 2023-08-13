@@ -3,7 +3,7 @@
 <!--
 **FuatBerke/fuatberke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-🔭I'm currently working on Front-End Development<br>🌱I'm currently learning JavaScript<br>⚡Fun Fact : I am a guitarist 🤘🏻
+🔭I'm currently working on Front-End Development<br>🌱I'm currently learning React<br>⚡Fun Fact : I am a guitarist 🤘🏻
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/fuatberkegultekin) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fbgdesignn) 
